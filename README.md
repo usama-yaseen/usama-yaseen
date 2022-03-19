@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Usama Yaseen👋
 
+🎓 4rt year Computer Science student at COMSATS University Islamabad.
+💗 Have Keen Interests in Mobile Development
+💻 Currently learning Django
+📫 How to reach me: Linkedin: usama-yaseen
 <!--
 **usama-yaseen/usama-yaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
