@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  </a>
 <a href="https://stackoverflow.com/users/11760942/usamayaseen" target="_blank"><img src="https://img.shields.io/badge/-Stack overflow-D14836?style=flat-square&logo=Stackoverflow&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/usama-yaseen/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~0145bacd9e49159c3e" target="_blank"><img alt="Custom badge" src="https://img.shields.io/endpoint?color=Green&label=Upwork&logo=Upwork&logoColor=Green"></a>
+<a href="https://www.upwork.com/freelancers/~0145bacd9e49159c3e" target="_blank"><img alt="Custom badge" src="https://img.shields.io/badge/-Upwork-brightgreen?style=plastic&logo=Upwork&logoColor=white"></a>
 <a href="https://www.instagram.com/_usamayaseen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BB2A7F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
